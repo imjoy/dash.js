@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"build",
+				"test",
+				"node_modules",
+				"docs",
+				"dist",
+				"reports"
+			],
+			"path": "."
+		}
+	]
+}
