@@ -9,7 +9,16 @@
 				"node_modules",
 				"docs",
 				"dist",
-				"reports"
+				"reports",
+				".settings"
+			],
+			"file_exclude_patterns" :
+			[
+				"*.min.js",
+				"*.min.map",
+				"*.vpp",
+				"*.vpp.bak_*",
+				"package-lock.json"
 			],
 			"path": "."
 		}

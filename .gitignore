@@ -182,3 +182,8 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+.tern-project
+*.vpp.bak_*
+data/.dash.js.vpp.lck
+package-lock.json
